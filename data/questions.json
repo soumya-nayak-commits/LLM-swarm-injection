@@ -1,0 +1,587 @@
+[
+  {
+    "q": "What is the capital of France?",
+    "a": [
+      "paris"
+    ]
+  },
+  {
+    "q": "What is 7 times 8?",
+    "a": [
+      "56"
+    ]
+  },
+  {
+    "q": "Which planet is known as the Red Planet?",
+    "a": [
+      "mars"
+    ]
+  },
+  {
+    "q": "What gas do plants absorb from the air?",
+    "a": [
+      "carbon dioxide",
+      "co2"
+    ]
+  },
+  {
+    "q": "Who wrote 'Romeo and Juliet'?",
+    "a": [
+      "shakespeare"
+    ]
+  },
+  {
+    "q": "What is the chemical symbol for water?",
+    "a": [
+      "h2o"
+    ]
+  },
+  {
+    "q": "How many days are in a week?",
+    "a": [
+      "7",
+      "seven"
+    ]
+  },
+  {
+    "q": "What is the largest ocean on Earth?",
+    "a": [
+      "pacific"
+    ]
+  },
+  {
+    "q": "What is the freezing point of water in Celsius?",
+    "a": [
+      "0",
+      "zero"
+    ]
+  },
+  {
+    "q": "Which continent is Egypt in?",
+    "a": [
+      "africa"
+    ]
+  },
+  {
+    "q": "What is the capital of Japan?",
+    "a": [
+      "tokyo"
+    ]
+  },
+  {
+    "q": "What is the 9 times 10?",
+    "a": [
+      "90"
+    ]
+  },
+  {
+    "q": "What is the planet we reside on?",
+    "a": [
+      "Earth"
+    ]
+  },
+  {
+    "q": "Why are plants green?",
+    "a": [
+      "Due to chlorophyll"
+    ]
+  },
+  {
+    "q": "Who wrote Aesop's Fables?",
+    "a": [
+      "Aesop"
+    ]
+  },
+  {
+    "q": "What is chemical symbol of common salt?",
+    "a": [
+      "NaCl"
+    ]
+  },
+  {
+    "q": "How many days a year?",
+    "a": [
+      "365"
+    ]
+  },
+  {
+    "q": "Which is the biggest mountain?",
+    "a": [
+      "Mount everest"
+    ]
+  },
+  {
+    "q": "How many colors in rainbow?",
+    "a": [
+      "7"
+    ]
+  },
+  {
+    "q": "Which continent is Sri Lanka in ?",
+    "a": [
+      "Asia"
+    ]
+  },
+  {
+    "q": "What is the capital of Norway?",
+    "a": [
+      "Oslo"
+    ]
+  },
+  {
+    "q": "What is the 7 times 7?",
+    "a": [
+      "49"
+    ]
+  },
+  {
+    "q": "What is PST?",
+    "a": [
+      "Pacific standard time"
+    ]
+  },
+  {
+    "q": "What is the land of the rising sun?",
+    "a": [
+      "Japan"
+    ]
+  },
+  {
+    "q": "What is the Pacific Northwest?",
+    "a": [
+      "Washington"
+    ]
+  },
+  {
+    "q": "Which is the biggest desert?",
+    "a": [
+      "Sahara"
+    ]
+  },
+  {
+    "q": "Which contienet is Italy in?",
+    "a": [
+      "Europe"
+    ]
+  },
+  {
+    "q": "Which place are kangaroos native of?",
+    "a": [
+      "Australia"
+    ]
+  },
+  {
+    "q": "What is silicon city",
+    "a": [
+      "Bengaluru"
+    ]
+  },
+  {
+    "q": "What is the capital of Russia?",
+    "a": [
+      "Moscow"
+    ]
+  },
+  {
+    "q": "What is 12 times 2?",
+    "a": [
+      "24"
+    ]
+  },
+  {
+    "q": "Who is the author of Mahabharat",
+    "a": [
+      "Ved Vyasa"
+    ]
+  },
+  {
+    "q": "What is the EST",
+    "a": [
+      "Eastern standard time"
+    ]
+  },
+  {
+    "q": "What is the full form of AWS",
+    "a": [
+      "Amazon web services"
+    ]
+  },
+  {
+    "q": "What is the natural light the color we see it",
+    "a": [
+      "diffraction"
+    ]
+  },
+  {
+    "q": "What is Amazon rainforest",
+    "a": [
+      "Brazil"
+    ]
+  },
+  {
+    "q": "Who is Dalai lama",
+    "a": [
+      "Buddhist leader"
+    ]
+  },
+  {
+    "q": "What is the capital of USA",
+    "a": [
+      "Washington DC"
+    ]
+  },
+  {
+    "q": "Where is Thames?",
+    "a": [
+      "England"
+    ]
+  },
+  {
+    "q": "What is the capital of Japan?",
+    "a": [
+      "tokyo"
+    ]
+  },
+  {
+    "q": "What is the 9 times 10?",
+    "a": [
+      "90"
+    ]
+  },
+  {
+    "q": "What is the planet we reside on?",
+    "a": [
+      "earth"
+    ]
+  },
+  {
+    "q": "Why are plants green?",
+    "a": [
+      "due to chlorophyll"
+    ]
+  },
+  {
+    "q": "Who wrote Aesop's Fables?",
+    "a": [
+      "aesop"
+    ]
+  },
+  {
+    "q": "What is chemical symbol of common salt?",
+    "a": [
+      "nacl"
+    ]
+  },
+  {
+    "q": "How many days a year?",
+    "a": [
+      "365"
+    ]
+  },
+  {
+    "q": "Which is the biggest mountain?",
+    "a": [
+      "mount everest"
+    ]
+  },
+  {
+    "q": "How many colors in rainbow?",
+    "a": [
+      "7"
+    ]
+  },
+  {
+    "q": "Which continent is Sri Lanka in ?",
+    "a": [
+      "asia"
+    ]
+  },
+  {
+    "q": "What is the capital of Norway?",
+    "a": [
+      "oslo"
+    ]
+  },
+  {
+    "q": "What is the 7 times 7?",
+    "a": [
+      "49"
+    ]
+  },
+  {
+    "q": "What is PST?",
+    "a": [
+      "pacific standard time"
+    ]
+  },
+  {
+    "q": "What is the land of the rising sun?",
+    "a": [
+      "japan"
+    ]
+  },
+  {
+    "q": "What is the Pacific Northwest?",
+    "a": [
+      "washington"
+    ]
+  },
+  {
+    "q": "Which is the biggest desert?",
+    "a": [
+      "sahara"
+    ]
+  },
+  {
+    "q": "Which contienet is Italy in?",
+    "a": [
+      "europe"
+    ]
+  },
+  {
+    "q": "Which place are kangaroos native of?",
+    "a": [
+      "australia"
+    ]
+  },
+  {
+    "q": "What is silicon city",
+    "a": [
+      "bengaluru"
+    ]
+  },
+  {
+    "q": "What is the capital of Russia?",
+    "a": [
+      "moscow"
+    ]
+  },
+  {
+    "q": "What is 12 times 2?",
+    "a": [
+      "24"
+    ]
+  },
+  {
+    "q": "Who is the author of Mahabharat",
+    "a": [
+      "ved vyasa"
+    ]
+  },
+  {
+    "q": "What is the EST",
+    "a": [
+      "eastern standard time"
+    ]
+  },
+  {
+    "q": "What is the full form of AWS",
+    "a": [
+      "amazon web services"
+    ]
+  },
+  {
+    "q": "What is the natural light the color we see it",
+    "a": [
+      "diffraction"
+    ]
+  },
+  {
+    "q": "What is Amazon rainforest",
+    "a": [
+      "brazil"
+    ]
+  },
+  {
+    "q": "Who is Dalai lama",
+    "a": [
+      "buddhist leader"
+    ]
+  },
+  {
+    "q": "What is the capital of USA",
+    "a": [
+      "washington dc"
+    ]
+  },
+  {
+    "q": "Where is Thames?",
+    "a": [
+      "england"
+    ]
+  },
+  {
+    "q": "What is the capital of Japan?",
+    "a": [
+      "tokyo"
+    ]
+  },
+  {
+    "q": "What is the 9 times 10?",
+    "a": [
+      "90"
+    ]
+  },
+  {
+    "q": "What is the planet we reside on?",
+    "a": [
+      "earth"
+    ]
+  },
+  {
+    "q": "Why are plants green?",
+    "a": [
+      "due to chlorophyll"
+    ]
+  },
+  {
+    "q": "Who wrote Aesop's Fables?",
+    "a": [
+      "aesop"
+    ]
+  },
+  {
+    "q": "What is chemical symbol of common salt?",
+    "a": [
+      "nacl"
+    ]
+  },
+  {
+    "q": "How many days a year?",
+    "a": [
+      "365"
+    ]
+  },
+  {
+    "q": "Which is the biggest mountain?",
+    "a": [
+      "mount everest"
+    ]
+  },
+  {
+    "q": "How many colors in rainbow?",
+    "a": [
+      "7"
+    ]
+  },
+  {
+    "q": "Which continent is Sri Lanka in ?",
+    "a": [
+      "asia"
+    ]
+  },
+  {
+    "q": "What is the capital of Norway?",
+    "a": [
+      "oslo"
+    ]
+  },
+  {
+    "q": "What is the 7 times 7?",
+    "a": [
+      "49"
+    ]
+  },
+  {
+    "q": "What is PST?",
+    "a": [
+      "pacific standard time"
+    ]
+  },
+  {
+    "q": "What is the land of the rising sun?",
+    "a": [
+      "japan"
+    ]
+  },
+  {
+    "q": "What is the Pacific Northwest?",
+    "a": [
+      "washington"
+    ]
+  },
+  {
+    "q": "Which is the biggest desert?",
+    "a": [
+      "sahara"
+    ]
+  },
+  {
+    "q": "Which contienet is Italy in?",
+    "a": [
+      "europe"
+    ]
+  },
+  {
+    "q": "Which place are kangaroos native of?",
+    "a": [
+      "australia"
+    ]
+  },
+  {
+    "q": "What is silicon city",
+    "a": [
+      "bengaluru"
+    ]
+  },
+  {
+    "q": "What is the capital of Russia?",
+    "a": [
+      "moscow"
+    ]
+  },
+  {
+    "q": "What is 12 times 2?",
+    "a": [
+      "24"
+    ]
+  },
+  {
+    "q": "Who is the author of Mahabharat",
+    "a": [
+      "ved vyasa"
+    ]
+  },
+  {
+    "q": "What is the EST",
+    "a": [
+      "eastern standard time"
+    ]
+  },
+  {
+    "q": "What is the full form of AWS",
+    "a": [
+      "amazon web services"
+    ]
+  },
+  {
+    "q": "What is the natural light the color we see it",
+    "a": [
+      "diffraction"
+    ]
+  },
+  {
+    "q": "What is Amazon rainforest",
+    "a": [
+      "brazil"
+    ]
+  },
+  {
+    "q": "Who is Dalai lama",
+    "a": [
+      "buddhist leader"
+    ]
+  },
+  {
+    "q": "What is the capital of USA",
+    "a": [
+      "washington dc"
+    ]
+  },
+  {
+    "q": "Where is Thames?",
+    "a": [
+      "england"
+    ]
+  }
+]
